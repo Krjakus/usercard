@@ -11,7 +11,7 @@ body {
     box-sizing: border-box;
     border-radius: 15px;
     text-align: center;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 150px;
 }
 
@@ -100,12 +100,11 @@ h5{
 .network {
     display: inline-block;
     vertical-align: middle;
-    margin-top: 20px;
+    margin-top: 23px;
     margin-bottom: 5px;
 }
 .verticalAlign2{
-    border-left: 2px solid #949494 ;
-    padding-left: 10px;
+    padding-left: 8px;
 }
 
 .verticalAlign2 + .verticalAlign2 {
